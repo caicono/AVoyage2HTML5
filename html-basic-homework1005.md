@@ -1,5 +1,15 @@
 1. 一个规范的页面，最少要包含哪些元素？
-答：至少要包括<html><head><body>;
+答：至少要包括<html><head><body>等。
+<quote>
+\<html>
+\<head>
+\<title>Document name goes here\</title>
+\</head>
+\<body>
+Visible text goes here
+\</body>
+\</html>
+<\quote>
     <a href="https://caicono.github.io/hello.html">个人第一次作业.</a>
   
 2. <a name="q2">HTML的各类标签以及属性中，使用频率在70%以上的30%的知识点（标签+属性）有哪些，总结成不超过五级的知识树。</a>
