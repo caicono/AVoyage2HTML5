@@ -12,6 +12,8 @@
  
  2. 脚本。例如javasript等。这是web世界具有各类丰富交互与多姿多彩的源泉。
     例句：在文章中插入javasript写的地址。
-    <script type="text/javascript">
-    document.write("<h1><a href=\"http://caicono.info/\">caicono的blog</a></h1>")
-    </script> 
+    <quote>
+        \<script type="text/javascript">
+            document.write("<h1>caicono的blog</h1>")
+       \</script>  
+    </quote>
