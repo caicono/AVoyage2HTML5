@@ -14,6 +14,6 @@
     例句：在文章中插入javasript写的地址。
     <quote>
         \<script type="text/javascript">
-            document.write("<h1>caicono的blog</h1>")
+            document.write("<p>caicono的blog</p>")
        \</script>  
     </quote>
